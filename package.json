@@ -1,0 +1,30 @@
+{
+  "name": "landmark",
+  "version": "1.0.0",
+  "description": "Atlas web client that focuses on a couple simple features",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -r esm src/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astral-atlas/landmark.git"
+  },
+  "author": "luke kaalim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astral-atlas/landmark/issues"
+  },
+  "homepage": "https://github.com/astral-atlas/landmark#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "lk-test": "^2.4.0",
+    "webpack": "^4.33.0",
+    "esm": "^3.2.25",
+    "webpack-cli": "^3.3.3"
+  },
+  "dependencies": {
+    "htm": "^2.1.1",
+    "preact": "^10.0.0-beta.2"
+  }
+}
