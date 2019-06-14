@@ -17,14 +17,8 @@
   },
   "homepage": "https://github.com/astral-atlas/landmark#readme",
   "devDependencies": {
-    "html-webpack-plugin": "^3.2.0",
     "lk-test": "^2.4.0",
-    "webpack": "^4.33.0",
-    "esm": "^3.2.25",
-    "webpack-cli": "^3.3.3"
+    "esm": "^3.2.25"
   },
-  "dependencies": {
-    "htm": "^2.1.1",
-    "preact": "^10.0.0-beta.2"
-  }
+  "dependencies": {}
 }
